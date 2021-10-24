@@ -1,0 +1,116 @@
+
+2021-10-24 15:17:58,184 [main] INFO com.test.TestLogin - Sending user name: abc and password
+2021-10-24 15:17:58,188 [main] INFO com.test.TestLogin - Clicking on login button
+2021-10-24 15:18:03,307 [main] INFO com.test.TestLogin - Getting page Title
+2021-10-24 15:18:03,311 [main] INFO com.test.TestLogin - Comparing Expected and Actual Title
+2021-10-24 15:18:17,787 [main] INFO com.test.TestLogin - Sending user name: abc and password
+2021-10-24 15:18:17,791 [main] INFO com.test.TestLogin - Clicking on login button
+2021-10-24 15:18:22,919 [main] INFO com.test.TestLogin - Getting page Title
+2021-10-24 15:18:22,924 [main] INFO com.test.TestLogin - Comparing Expected and Actual Title
+2021-10-24 15:21:35,441 [main] INFO com.test.TestLogin - Sending user name: abc and password
+2021-10-24 15:21:35,444 [main] INFO com.test.TestLogin - Clicking on login button
+2021-10-24 15:21:35,568 [main] INFO com.test.TestLogin - Getting page Title
+2021-10-24 15:21:35,572 [main] INFO com.test.TestLogin - Comparing Expected and Actual Title
+2021-10-24 15:23:29,398 [main] INFO com.test.TestLogin - Sending user name: abc and password
+2021-10-24 15:23:29,403 [main] INFO com.test.TestLogin - Clicking on login button
+2021-10-24 15:23:29,566 [main] INFO com.test.TestLogin - Getting page Title
+2021-10-24 15:23:29,572 [main] INFO com.test.TestLogin - Comparing Expected and Actual Title
+2021-10-24 15:24:38,483 [main] INFO com.test.TestLogin - Sending user name: abc and password
+2021-10-24 15:24:38,486 [main] INFO com.test.TestLogin - Clicking on login button
+2021-10-24 15:24:38,606 [main] INFO com.test.TestLogin - Getting page Title
+2021-10-24 15:24:38,610 [main] INFO com.test.TestLogin - Comparing Expected and Actual Title
+2021-10-24 15:25:20,658 [main] INFO com.test.TestLogin - Sending user name: abc and password
+2021-10-24 15:25:20,663 [main] INFO com.test.TestLogin - Clicking on login button
+2021-10-24 15:25:25,802 [main] INFO com.test.TestLogin - Getting page Title
+2021-10-24 15:25:25,808 [main] INFO com.test.TestLogin - Comparing Expected and Actual Title
+2021-10-24 15:27:09,699 [main] INFO com.test.TestLogin - Sending user name: abc and password
+2021-10-24 15:27:09,703 [main] INFO com.test.TestLogin - Clicking on login button
+2021-10-24 15:27:09,823 [main] INFO com.test.TestLogin - Getting page Title
+2021-10-24 15:27:09,828 [main] INFO com.test.TestLogin - Comparing Expected and Actual Title
+2021-10-24 15:27:09,828 [main] INFO ebanking - Expected is: Execute Automation!
+2021-10-24 15:27:09,828 [main] INFO ebanking - Actual is: Execute Automation
+2021-10-24 15:27:50,251 [main] INFO com.test.TestLogin - Sending user name: abc and password
+2021-10-24 15:27:50,254 [main] INFO com.test.TestLogin - Clicking on login button
+2021-10-24 15:27:50,377 [main] INFO com.test.TestLogin - Getting page Title
+2021-10-24 15:27:50,381 [main] INFO com.test.TestLogin - Comparing Expected and Actual Title
+2021-10-24 15:29:36,000 [main] INFO com.test.TestLogin - Sending user name: abc and password
+2021-10-24 15:29:36,004 [main] INFO com.test.TestLogin - Clicking on login button
+2021-10-24 15:29:36,121 [main] INFO com.test.TestLogin - Getting page Title
+2021-10-24 15:29:36,126 [main] INFO com.test.TestLogin - Comparing Expected and Actual Title
+2021-10-24 15:29:36,126 [main] INFO ebanking - Expected is: Execute Automation
+2021-10-24 15:29:36,126 [main] INFO ebanking - Actual is: Execute Automation
+2021-10-24 15:29:36,824 [main] INFO ebanking - Expected is: Execute Automation
+2021-10-24 15:29:36,824 [main] INFO ebanking - Actual is: Not Found
+2021-10-24 15:30:25,719 [main] INFO com.test.TestLogin - Sending user name: abc and password
+2021-10-24 15:30:25,722 [main] INFO com.test.TestLogin - Clicking on login button
+2021-10-24 15:30:29,848 [main] INFO com.test.TestLogin - Getting page Title
+2021-10-24 15:30:29,857 [main] INFO com.test.TestLogin - Comparing Expected and Actual Title
+2021-10-24 15:30:29,857 [main] INFO ebanking - Expected is: Execute Automation
+2021-10-24 15:30:29,857 [main] INFO ebanking - Actual is: Execute Automation
+2021-10-24 15:30:30,555 [main] INFO ebanking - Expected is: Execute Automation
+2021-10-24 15:30:30,555 [main] INFO ebanking - Actual is: Not Found
+2021-10-24 17:23:38,029 [main] INFO com.test.TestLogin - Sending user name: abc and password
+2021-10-24 17:23:38,033 [main] INFO com.test.TestLogin - Clicking on login button
+2021-10-24 17:23:42,161 [main] INFO com.test.TestLogin - Getting page Title
+2021-10-24 17:23:42,187 [main] INFO com.test.TestLogin - Comparing Expected and Actual Title
+2021-10-24 17:23:42,187 [main] INFO ebanking - Expected is: Execute Automation
+2021-10-24 17:23:42,188 [main] INFO ebanking - Actual is: Execute Automation
+2021-10-24 17:23:43,042 [main] INFO ebanking - Expected is: Execute Automation
+2021-10-24 17:23:43,042 [main] INFO ebanking - Actual is: Not Found
+2021-10-24 17:24:43,912 [main] INFO com.test.TestLogin - Sending user name: abc and password
+2021-10-24 17:24:43,915 [main] INFO com.test.TestLogin - Clicking on login button
+2021-10-24 17:24:48,046 [main] INFO com.test.TestLogin - Getting page Title
+2021-10-24 17:24:48,052 [main] INFO com.test.TestLogin - Comparing Expected and Actual Title
+2021-10-24 17:24:48,053 [main] INFO ebanking - Expected is: Execute Automation
+2021-10-24 17:24:48,053 [main] INFO ebanking - Actual is: Execute Automation
+2021-10-24 17:24:48,791 [main] INFO ebanking - Expected is: Execute Automation
+2021-10-24 17:24:48,791 [main] INFO ebanking - Actual is: Not Found
+2021-10-24 17:25:15,076 [main] INFO com.test.TestLogin - Sending user name: abc and password
+2021-10-24 17:25:15,081 [main] INFO com.test.TestLogin - Clicking on login button
+2021-10-24 17:25:19,198 [main] INFO com.test.TestLogin - Getting page Title
+2021-10-24 17:25:19,205 [main] INFO com.test.TestLogin - Comparing Expected and Actual Title
+2021-10-24 17:25:19,205 [main] INFO ebanking - Expected is: Execute Automation
+2021-10-24 17:25:19,205 [main] INFO ebanking - Actual is: Execute Automation
+2021-10-24 17:25:20,076 [main] INFO ebanking - Expected is: Execute Automation
+2021-10-24 17:25:20,076 [main] INFO ebanking - Actual is: Not Found
+2021-10-24 17:43:23,874 [main] INFO com.test.TestLogin - Sending user name: asdf and password
+2021-10-24 17:43:23,879 [main] INFO com.test.TestLogin - Clicking on login button
+2021-10-24 17:43:24,058 [main] INFO com.test.TestLogin - Checking the user logged in Name
+2021-10-24 17:43:24,719 [main] INFO com.test.TestLogin - Comparing Expected and Actual User
+2021-10-24 17:43:24,719 [main] INFO ebanking - Expected is: asdf
+2021-10-24 17:43:24,720 [main] INFO ebanking - Actual is: asdf
+2021-10-24 17:50:39,560 [main] INFO com.test.TestLogin - Sending invalid credentials
+2021-10-24 17:51:51,379 [main] INFO com.test.TestLogin - Sending user name: asdf and password
+2021-10-24 17:51:51,379 [main] INFO com.test.TestLogin - Clicking on login button
+2021-10-24 17:51:56,620 [main] INFO com.test.TestLogin - Checking the user logged in Name
+2021-10-24 17:51:57,269 [main] INFO com.test.TestLogin - Comparing Expected and Actual User
+2021-10-24 17:51:57,269 [main] INFO ebanking - Expected is: asdf
+2021-10-24 17:51:57,269 [main] INFO ebanking - Actual is: asdf
+2021-10-24 17:55:58,374 [main] INFO com.test.TestLogin - Sending invalid credentials
+2021-10-24 17:55:59,418 [main] INFO com.test.TestLogin - Sending user name: asdf and password
+2021-10-24 17:55:59,418 [main] INFO com.test.TestLogin - Clicking on login button
+2021-10-24 17:56:00,126 [main] INFO com.test.TestLogin - Checking the user logged in Name
+2021-10-24 17:56:00,695 [main] INFO com.test.TestLogin - Comparing Expected and Actual User
+2021-10-24 17:56:00,695 [main] INFO ebanking - Expected is: asdf
+2021-10-24 17:56:00,696 [main] INFO ebanking - Actual is: asdf
+2021-10-24 17:57:45,840 [main] INFO com.test.TestLogin - Sending invalid credentials
+2021-10-24 17:57:47,121 [main] INFO com.test.TestLogin - Sending user name: asdf and password
+2021-10-24 17:57:47,122 [main] INFO com.test.TestLogin - Clicking on login button
+2021-10-24 17:57:47,250 [main] INFO com.test.TestLogin - Checking the user logged in Name
+2021-10-24 17:57:47,824 [main] INFO com.test.TestLogin - Comparing Expected and Actual User
+2021-10-24 17:57:47,824 [main] INFO ebanking - Expected is: asdf
+2021-10-24 17:57:47,825 [main] INFO ebanking - Actual is: asdf
+2021-10-24 18:12:54,387 [main] INFO com.test.TestLogin - Sending invalid credentials
+2021-10-24 18:12:55,589 [main] INFO com.test.TestLogin - Sending user name: asdf and password
+2021-10-24 18:12:55,590 [main] INFO com.test.TestLogin - Clicking on login button
+2021-10-24 18:12:55,841 [main] INFO com.test.TestLogin - Checking the user logged in Name
+2021-10-24 18:12:56,431 [main] INFO com.test.TestLogin - Comparing Expected and Actual User
+2021-10-24 18:12:56,431 [main] INFO ebanking - Expected is: asdf
+2021-10-24 18:12:56,431 [main] INFO ebanking - Actual is: asdf
+2021-10-24 18:13:56,237 [main] INFO com.test.TestLogin - Sending invalid credentials
+2021-10-24 18:13:57,228 [main] INFO com.test.TestLogin - Sending user name: asdf and password
+2021-10-24 18:13:57,229 [main] INFO com.test.TestLogin - Clicking on login button
+2021-10-24 18:13:57,557 [main] INFO com.test.TestLogin - Checking the user logged in Name
+2021-10-24 18:13:58,174 [main] INFO com.test.TestLogin - Comparing Expected and Actual User
+2021-10-24 18:13:58,174 [main] INFO ebanking - Expected is: asdf
+2021-10-24 18:13:58,174 [main] INFO ebanking - Actual is: asdf
