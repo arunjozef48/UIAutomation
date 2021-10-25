@@ -14,6 +14,7 @@ import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
+import org.testng.annotations.Optional;
 import com.utils.DriverProvider;
 import com.utils.ReadConfig;
 
@@ -30,7 +31,7 @@ public class BaseTest {
 
     @Parameters("browser")
     @BeforeClass
-    public void setup(String br)
+    public void setup(@Optional("chrome") String br)
     {
         logger = Logger.getLogger("ebanking");
         PropertyConfigurator.configure("Log4j.properties");
